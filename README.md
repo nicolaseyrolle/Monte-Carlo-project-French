@@ -11,6 +11,6 @@ The aim of the project was to experiment the following Monte-Carlo methods:
 - Antithetic Variates
 - Stratification
 
-All of our experiments are done in R language.
+All experiments are done in R language.
 
 
